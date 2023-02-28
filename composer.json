@@ -1,17 +1,23 @@
 {
     "version": "0.1.0",
-    "name": "glpi-project\/php-library-glpi",
+    "name": "anisotton\/laravel-library-glpi",
     "type": "library",
-    "description": "GLPI API Client Library for PHP",
+    "description": "GLPI API Client Library for Laravel",
     "keywords": [
         "GLPI",
         "rest",
         "api",
-        "client"
+        "client",
+        "Laravel"
     ],
     "homepage": "https:\/\/glpi-project.github.io\/php-library-glpi\/",
     "license": "GPL-3.0+",
     "authors": [
+        {
+            "name": "Anderson Isotton",
+            "email": "anderson@isotton.com.br",
+            "role": "Developer"
+        },
         {
             "name": "Thierry Bugier",
             "email": "tbugier@teclib.com",
@@ -29,7 +35,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-        "guzzlehttp\/guzzle": "^6.3"
+        "guzzlehttp\/guzzle": "^7.2"
     },
     "require-dev": {
         "atoum\/atoum": "^3.1",
