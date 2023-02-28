@@ -1,5 +1,4 @@
 {
-    "version": "0.1.0",
     "name": "anisotton\/laravel-library-glpi",
     "type": "library",
     "description": "GLPI API Client Library for Laravel",
@@ -11,7 +10,7 @@
         "Laravel"
     ],
     "homepage": "https:\/\/glpi-project.github.io\/php-library-glpi\/",
-    "license": "GPL-3.0+",
+    "license": "MIT",
     "authors": [
         {
             "name": "Anderson Isotton",
